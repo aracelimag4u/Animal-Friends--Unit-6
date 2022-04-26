@@ -1,0 +1,63 @@
+body {
+    background-color: lightblue;
+}
+
+.green {
+    display: flex;
+    justify-content: center;
+    background-color: green;
+}
+
+.orange {
+    display: flex;
+    justify-content: center;
+    background-color: orange;
+}
+
+.start {
+    display: flex;
+    justify-content: center;
+    font-family: "Press Start 2P", cursive;
+}
+
+.imgs {
+    display: flex;
+    justify-content: center;
+}
+
+.jag {
+    width: 500px;
+    display: flex;
+    justify-content: center;
+    padding-left: 300px;
+}
+
+.parr {
+    width: 500px;
+    display: flex;
+    justify-content: center;
+    padding-left: 300px;
+}
+
+.parrot,
+.jaguar {
+    display: flex;
+    justify-content: center;
+}
+
+.jag,
+.parr {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.lak,
+.clo {
+    width: 900px;
+    padding-left: 300px;
+}
+
+.lake,
+.clouds {
+    font-size: 30px;
+}
